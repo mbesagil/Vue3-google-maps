@@ -1,6 +1,5 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import HelloWorld from '@/components/HelloWorld'
 import Usermaps from '@/maps/Usermaps'
 import CloseBuy from '@/maps/CloseBuy'
 
